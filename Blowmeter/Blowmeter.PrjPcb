@@ -43,7 +43,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=THT
 
 [Preferences]
 PrefsVaultGUID=
@@ -156,7 +155,7 @@ UniqueID=45D53198-D656-4AD1-8829-E49C153FD3AA
 Description=SMT
 AllowFabrication=1
 ParameterCount=0
-VariationCount=7
+VariationCount=11
 Variation1=Designator=D4|UniqueId=\FIJRJNRJ|Kind=1|AlternatePart= 
 Variation2=Designator=D7|UniqueId=\PNLTEGWW|Kind=1|AlternatePart= 
 Variation3=Designator=D2|UniqueId=\JFPGVZKR|Kind=1|AlternatePart= 
@@ -164,6 +163,10 @@ Variation4=Designator=D8|UniqueId=\COQKMJYG|Kind=1|AlternatePart=
 Variation5=Designator=R2|UniqueId=\TNDPSLCE|Kind=1|AlternatePart= 
 Variation6=Designator=R4|UniqueId=\DQHYDEKP|Kind=1|AlternatePart= 
 Variation7=Designator=R6|UniqueId=\DKNYTOFF|Kind=1|AlternatePart= 
+Variation8=Designator=D1|UniqueId=\SYIEUGKL|Kind=2|AlternatePart= 
+Variation9=Designator=D3|UniqueId=\CZEDHMZT|Kind=2|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\RNXRQFGU|Kind=2|AlternatePart= 
+Variation11=Designator=D6|UniqueId=\RUQIICGL|Kind=2|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -171,7 +174,7 @@ UniqueID=06D85E4C-3F40-4450-B4A5-D1EEEBEA29D8
 Description=THT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=11
 Variation1=Designator=D3|UniqueId=\CZEDHMZT|Kind=1|AlternatePart= 
 Variation2=Designator=D5|UniqueId=\RNXRQFGU|Kind=1|AlternatePart= 
 Variation3=Designator=D6|UniqueId=\RUQIICGL|Kind=1|AlternatePart= 
@@ -179,7 +182,15 @@ Variation4=Designator=R3|UniqueId=\VIKLJXLL|Kind=1|AlternatePart=
 Variation5=Designator=R5|UniqueId=\AXWIIWMX|Kind=1|AlternatePart= 
 Variation6=Designator=R7|UniqueId=\PLGTEBPK|Kind=1|AlternatePart= 
 Variation7=Designator=D1|UniqueId=\SYIEUGKL|Kind=1|AlternatePart= 
+Variation8=Designator=D2|UniqueId=\JFPGVZKR|Kind=2|AlternatePart= 
+Variation9=Designator=D4|UniqueId=\FIJRJNRJ|Kind=2|AlternatePart= 
+Variation10=Designator=D7|UniqueId=\PNLTEGWW|Kind=2|AlternatePart= 
+Variation11=Designator=D8|UniqueId=\COQKMJYG|Kind=2|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Blowmeter\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
