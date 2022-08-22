@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=SMT
 
 [Preferences]
 PrefsVaultGUID=
@@ -163,10 +164,10 @@ Variation4=Designator=D8|UniqueId=\COQKMJYG|Kind=1|AlternatePart=
 Variation5=Designator=R2|UniqueId=\TNDPSLCE|Kind=1|AlternatePart= 
 Variation6=Designator=R4|UniqueId=\DQHYDEKP|Kind=1|AlternatePart= 
 Variation7=Designator=R6|UniqueId=\DKNYTOFF|Kind=1|AlternatePart= 
-Variation8=Designator=D1|UniqueId=\SYIEUGKL|Kind=2|AlternatePart= 
-Variation9=Designator=D3|UniqueId=\CZEDHMZT|Kind=2|AlternatePart= 
-Variation10=Designator=D5|UniqueId=\RNXRQFGU|Kind=2|AlternatePart= 
-Variation11=Designator=D6|UniqueId=\RUQIICGL|Kind=2|AlternatePart= 
+Variation8=Designator=D1|UniqueId=\SYIEUGKL|Kind=0|AlternatePart= 
+Variation9=Designator=D3|UniqueId=\CZEDHMZT|Kind=0|AlternatePart= 
+Variation10=Designator=D5|UniqueId=\RNXRQFGU|Kind=0|AlternatePart= 
+Variation11=Designator=D6|UniqueId=\RUQIICGL|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -182,10 +183,10 @@ Variation4=Designator=R3|UniqueId=\VIKLJXLL|Kind=1|AlternatePart=
 Variation5=Designator=R5|UniqueId=\AXWIIWMX|Kind=1|AlternatePart= 
 Variation6=Designator=R7|UniqueId=\PLGTEBPK|Kind=1|AlternatePart= 
 Variation7=Designator=D1|UniqueId=\SYIEUGKL|Kind=1|AlternatePart= 
-Variation8=Designator=D2|UniqueId=\JFPGVZKR|Kind=2|AlternatePart= 
-Variation9=Designator=D4|UniqueId=\FIJRJNRJ|Kind=2|AlternatePart= 
-Variation10=Designator=D7|UniqueId=\PNLTEGWW|Kind=2|AlternatePart= 
-Variation11=Designator=D8|UniqueId=\COQKMJYG|Kind=2|AlternatePart= 
+Variation8=Designator=D2|UniqueId=\JFPGVZKR|Kind=0|AlternatePart= 
+Variation9=Designator=D4|UniqueId=\FIJRJNRJ|Kind=0|AlternatePart= 
+Variation10=Designator=D7|UniqueId=\PNLTEGWW|Kind=0|AlternatePart= 
+Variation11=Designator=D8|UniqueId=\COQKMJYG|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
